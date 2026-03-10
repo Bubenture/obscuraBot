@@ -1,8 +1,8 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+<a href="../README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
 </br>A Telegram bot that combines two images into one. The bot works with photos sent by the user and automatically creates a collage from the last two received images.
 
 
-![obscuraBot](obscuraBot.webp)
+![obscuraBot](../obscuraBot.webp)
 
 ## How It Works
 1. The user sends two images to the bot one after the other.
